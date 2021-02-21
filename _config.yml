@@ -61,13 +61,12 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: https://orcid.org/0000-0003-1831-596X
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: Steve Arrrants, writer and editor
 # --- General options --- #
 
 
