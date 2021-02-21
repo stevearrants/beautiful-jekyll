@@ -15,12 +15,11 @@ author: Steve Arrants
 
 # List of links in the navigation bar
 navbar-links:
-  Faq for Recruiters: "rfaq"
-  Portfolio: "portfolio"
-  Style Guide: "./style"
+  Hiring?: "rfaq"
+  Samples: "portfolio"
   Resume: "resume"
   Medium Posts: "medium"
-
+  Style Guide: "./style"
 
 # --- Logo --- #
 
