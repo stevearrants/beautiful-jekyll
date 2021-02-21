@@ -9,7 +9,7 @@ subtitle: Current writing
 
 * [Some Guidelines for Teams and Projects](https://medium.com/@sarrants/some-guidelines-for-teams-and-projects-1b7a45c23935)
   
-* [Your Documentatuon Project Plan](https://medium.com/@sarrants/your-document-project-plan-ad7d849c2da5)
+* [Your Documentation Project Plan](https://medium.com/@sarrants/your-document-project-plan-ad7d849c2da5)
 
 * [Technical writing is part of the conversation](https://medium.com/@sarrants/technical-writing-is-part-of-the-conversation-fd0bd03ef3e7)
 
