@@ -15,9 +15,7 @@ author: Steve Arrants
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: 
-    - About Steve: "aboutme"
-    - Faq for Recruiters: "rfaq"
+  Faq for Recruiters: "rfaq"
   Portfolio: "portfolio"
   Style Guide: "./style"
   Resume: "resume"
