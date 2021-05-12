@@ -15,6 +15,6 @@ subtitle: Current writing
   
 * [Your Documentation Project Plan](https://sarrants.medium.com/your-document-project-plan-ad7d849c2da5)
 
-* [Technical Writing is Part of the Conversation](hhttps://sarrants.medium.com/technical-writing-is-part-of-the-conversation-fd0bd03ef3e7?)
+* [Technical Writing is Part of the Conversation](https://sarrants.medium.com/technical-writing-is-part-of-the-conversation-fd0bd03ef3e7)
 
 * [Vermont Employment Resources](https://sarrants.medium.com/vermont-employment-resources-7ccf11b135be?)
