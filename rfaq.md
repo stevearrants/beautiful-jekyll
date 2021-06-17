@@ -40,12 +40,9 @@ I live in the Burlington Vermont area.
 ### Your skills look like a great match for this position we have. Can we have a quick five minute phone call to chat?
 You are welcome to my phone number to call but I won't answer it unless we've previously made an appointment or if I recognise your number. I've already tried to answer some of the most basic questions on this site.
 
-Email is a great way to contact me. If we are both still interested in the situation after that, we can talk on the phone, Google Hangous, or Skype.
+Email is a great way to contact me. If we are both still interested in the situation after that, we can talk on the phone, Google Hangouts, or Skype.
 
 Want me to know you have spent more than the three seconds nearly all hiring folks spend on this page? In your email mention _the serial comma_ and you will have my attention and gratitude. 
 
 ### Do you have a notice period?
 Two weeks.
-
-### Are you available for an interview?
-I can interview on the phone, Google Hangouts, or Skype with short notice.
