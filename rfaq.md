@@ -48,4 +48,4 @@ Want me to know you have spent more than the three seconds nearly all hiring fol
 Two weeks.
 
 ### Are you available for an interview?
-I can interview on the phone, Google Hangous, or Skype with short notice.
+I can interview on the phone, Google Hangouts, or Skype with short notice.
